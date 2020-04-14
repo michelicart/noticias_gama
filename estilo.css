@@ -108,7 +108,7 @@ a.leia {
 
 #sobreautor{
     background-color: rgb(209, 209, 209);
-    height: 550px;
+    height: 420px;
     padding-top: 30px;
 }
 
@@ -116,7 +116,7 @@ a.leia {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 140px;
+    width: 180px;
     border-radius: 50%;
 }
 
@@ -132,7 +132,7 @@ a.leia {
 
 #ladoesqu{
     width: 400px;
-    margin-top: 60px;
+    margin-top: 40px;
 
 }
 
